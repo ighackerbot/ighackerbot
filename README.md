@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new hacking material some programming languages and OS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +918717986200
-- 😄 Pronouns: BROCODE
+- 😄 Pronouns: berlin
 - ⚡ Fun fact: Hunting For UFOs Can Be Expensive
 
 <!---
