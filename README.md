@@ -1,4 +1,24 @@
 
+Hey there! 👋 I'm Anuj Jain
+🚀 Full-Stack Developer | AI Enthusiast
+I love building web apps, exploring AI/ML, and contributing to open-source projects.
+
+🔭 Currently Working On:
+
+Scalable web apps with React, Node.js, and MongoDB
+NST Software Developer Club projects
+👯 Open to Collaborate On:
+
+Web development & AI/ML projects
+🌱 Currently Learning:
+
+AI/ML algorithms & real-world applications
+React performance optimization & new features
+💬 Ask Me About:
+
+Web Development (MERN Stack)
+Competitive Programming
+OS & System Design Basics
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_anuj_jain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anuj jain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainanuj2005@gmail.com) 
 
