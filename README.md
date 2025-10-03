@@ -9,16 +9,18 @@
 ---
 
 ## 🚀 About Me
+
 - 🎓 Computer Science & Engineering Student at **Newton School of Technology (ADYPU), Pune**  
 - 💻 Passionate Full Stack Developer exploring cutting-edge technologies  
 - 🤖 Enthusiastic about **Generative AI, LLMs & Modern Web Development**  
 - 🌱 Currently mastering **Next.js, Prisma ORM, Supabase & AI Integration**  
 - 🎯 2025 Goals: Build Impactful AI-Powered Applications & Contribute to Open Source  
-- ⚡ Fun fact: I turn coffee into code and bugs into features!
+- ⚡ Fun fact: I turn coffee into code and bugs into features!  
 
 ---
 
 ## 🎓 Education
+
 - 🏫 **Newton School of Technology (ADYPU), Pune**  
   📚 Bachelor of Technology in Computer Science & Engineering  
   📅 Aug 2024 - Aug 2028  
@@ -71,6 +73,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+## 💼 Skills
+
+### 💻 Technical Skills
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Prisma ORM  
+- **Database:** MongoDB, MySQL, Supabase  
+- **AI/ML:** Generative AI, LLM, Python, Pandas, Matplotlib  
+- **Tools:** Linux, Git, Figma, Data Structures & Algorithms  
+
 ### 🎯 Soft Skills
 - **Leadership & Team Management:** Team Building, Teamwork, Responsibility  
 - **Communication:** Public Speaking, Presentation Skills, Social Media  
@@ -80,33 +93,42 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ighackerbot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ighackerbot&theme=tokyonight&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ighackerbot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ighackerbot&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ighackerbot&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ighackerbot&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
 ## 📈 Contribution Graph
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ighackerbot&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 🎯 Competitive Programming Profiles
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/berlin30/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/jainanuj2005)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jainanuj2005)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jainanuj2005)  
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@jainanuj2005/)  
 
+### 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/berlin30?theme=dark&font=Ubuntu&ext=heatmap)  
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=berlin30&theme=dark)
+
 ---
 
 ## 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-jain-b61594338/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-anuj-jain.vercel.app/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ig_anuj_jain/)  
@@ -115,11 +137,12 @@
 ---
 
 ## 💡 Random Dev Quote
+
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 💼 Open to Collaborations & Opportunities!  
-### ⭐ Show some love by starring repositories you find interesting!  
+## 💼 Open to Collaborations & Opportunities!
+⭐ Show some love by starring repositories you find interesting!
 
 **"Code is like humor. When you have to explain it, it's bad!" – Cory House**
