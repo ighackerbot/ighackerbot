@@ -73,16 +73,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 💼 Skills
-
-### 💻 Technical Skills
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Prisma ORM  
-- **Database:** MongoDB, MySQL, Supabase  
-- **AI/ML:** Generative AI, LLM, Python, Pandas, Matplotlib  
-- **Tools:** Linux, Git, Figma, Data Structures & Algorithms  
+--- 
 
 ### 🎯 Soft Skills
 - **Leadership & Team Management:** Team Building, Teamwork, Responsibility  
