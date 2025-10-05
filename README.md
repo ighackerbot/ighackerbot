@@ -157,7 +157,7 @@
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" alt="50 Days Badge 2025"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="120" alt="100 Days Badge 2024"/>
+  <img src="https://platform-url.com/your-pandas-badge.png" width="150" alt="Introduction to Pandas Badge"/>
 </p>
 
 <div align="center">
