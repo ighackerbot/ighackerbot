@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated gradient background banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:10b981&height=180&section=header&text=Anuj%20Jain&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:a855f7&height=180&section=header&text=Anuj%20Jain&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 </div>
 
