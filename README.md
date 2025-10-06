@@ -1,7 +1,21 @@
 # Hi there, I'm Anuj Jain 👋
 
 <div align="center">
+
+<!-- Animated gradient background banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anuj%20Jain&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;LLM+%26+Generative+AI+Explorer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<!-- Gradient divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 <p align="center">
@@ -9,6 +23,13 @@
   <img src="https://img.shields.io/github/followers/ighackerbot?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ighackerbot?label=Stars&style=social" alt="Stars" />
 </p>
+
+<div align="center">
+
+<!-- Another gradient divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ---
 
@@ -178,6 +199,13 @@
 </div>
 
 ---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
 
 <div align="center">
   
