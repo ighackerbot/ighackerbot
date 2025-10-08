@@ -165,11 +165,6 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" alt="50 Days Badge 2025"/>
 </p>
 
-<div align="center">
-  
-**🔥 Current Streak | 🎯 Problems Solved | ⭐ Contest Rating**
-
-</div>
 
 ---
 
